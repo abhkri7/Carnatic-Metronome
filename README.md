@@ -1,7 +1,7 @@
 
 
 
-#Carnatic Metronome
+#Carnatic Metronome \n
 ##Steps to take:
 **1. Download the zip in the code section of this github project page**  
 **2. Extract all files from it into a folder**  
